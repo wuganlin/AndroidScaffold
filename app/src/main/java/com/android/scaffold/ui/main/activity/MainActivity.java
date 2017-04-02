@@ -28,6 +28,7 @@ public class MainActivity extends BaseActivity implements ContactMainContract.Vi
     protected void onStart() {
         super.onStart();
         //mPresenter.loadContacts();
+        showNetErrorTip("wuganlin");
     }
 
     @Override

@@ -1,6 +1,7 @@
 package com.android.scaffold.http.api;
 
-import com.android.scaffold.http.HttpRequestHelper;
+
+import com.wgl.android.library.http.HttpRequestHelper;
 
 import java.io.IOException;
 import java.util.List;
